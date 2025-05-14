@@ -14,17 +14,19 @@
 
 <img src="https://hearthstone.wiki.gg/images/a/ae/BG32_MagicItem_890_Battlegrounds.png?343bef" width="225"></img>
 
-**Old:** At the end of each turn, give your left-most minion +3/+2. (Improved by each Battlecry you've triggered this turn!)
+**Old:** At the end of each turn, give your left-most minion +3/+2. (Improved by each Battlecry you’ve triggered this turn!)
 
-**New:** At the end of each turn, give your left-most minion +3/+3. (Improved by each Battlecry you've triggered this turn!)
+**New:** At the end of each turn, give your left-most minion +3/+3. (Improved by each Battlecry you’ve triggered this turn!)
 
 ## Weary Portrait
 
 <img src="https://hearthstone.wiki.gg/images/b/bd/BG32_MagicItem_933_Battlegrounds.png?d5c9a6" width="225"></img>
 
-**Old:** [7 Gold] Get a Weary Mage and a Coilskar Sapper. Your Weary Mages' Spellcrafts are permanent.
+**Old:** [7 Gold] Get a Weary Mage and a Coilskar Sapper. Your Weary Mages’ Spellcrafts are permanent.
 
-**New:** [3 Gold] Get a Weary Mage. Your weary Mages' Spellcrafts are permanent.
+**New:** [3 Gold] Get a Weary Mage. Your weary Mages’ Spellcrafts are permanent.
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/3/3d/BG31_830_Battlegrounds.png/235px-BG31_830_Battlegrounds.png?cc0bf9" width="185"></img><img src="https://hearthstone.wiki.gg//images/thumb/d/d1/BG32_836_Battlegrounds.png/235px-BG32_836_Battlegrounds.png?bd9dce" width="185"></img>
 
 ## Shrine of Evolution
 
@@ -34,7 +36,7 @@
 
 **New:** [2 Gold] Transform all your minions into random Tier 4 minions.
 
-## Finley's Helmet
+## Finley’s Helmet
 
 <img src="https://hearthstone.wiki.gg/images/7/7b/BG32_MagicItem_891_Battlegrounds.png?55d3a9" width="225"></img>
 
@@ -57,6 +59,8 @@
 **Old:** [2 Gold] Spellcraft: Give a Murloc 2 random Bonus Keywords.
 
 **New:** [1 Gold] Spellcraft: Give a Murloc a random Bonus Keyword.
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/5/52/BG32_MagicItem_892t.png/235px-BG32_MagicItem_892t.png?8be7ae" width="185"></img>
 
 ## Fountain Pen
 
@@ -98,6 +102,8 @@
 
 **New:** [2 Gold] Get a Goldgrubber and an Aureate Laureate.
 
+**Related Cards:**<img src="https://hearthstone.wiki.gg/images/thumb/0/0d/BGS_066_Battlegrounds.png/300px-BGS_066_Battlegrounds.png?821b2f" width="185"></img><img src="https://hearthstone.wiki.gg/images/thumb/b/b8/BG32_236_Battlegrounds.png/300px-BG32_236_Battlegrounds.png?4c7a41" width="185"></img>
+
 ## Eclectic Shrine
 
 <img src="https://hearthstone.wiki.gg/images/f/f0/BG32_MagicItem_280_Battlegrounds.png?aba621" width="225"></img>
@@ -134,11 +140,13 @@
 
 <img src="https://hearthstone.wiki.gg/images/d/dc/BG32_MagicItem_820_Battlegrounds.png?618475" width="225"></img>
 
-**Old:** [0 Gold] Get an Impulsive Trickster. Your Impulsive Tricksters' Deathrattles target adjacent minions.
+**Old:** [0 Gold] Get an Impulsive Trickster. Your Impulsive Tricksters’ Deathrattles target adjacent minions.
 
-**New:** [1 Gold] Get a 6/6 Impulsive Trickster. Your Impulsive Tricksters' Deathrattles target adjacent minions.
+**New:** [1 Gold] Get a 6/6 Impulsive Trickster. Your Impulsive Tricksters’ Deathrattles target adjacent minions.
 
-## Explorer's Binoculars
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/3/36/BG21_006_Battlegrounds.png/235px-BG21_006_Battlegrounds.png?e16ad2" width="185"></img>
+
+## Explorer’s Binoculars
 
 <img src="https://hearthstone.wiki.gg/images/5/53/BG32_MagicItem_858_Battlegrounds.png?309708" width="225"></img>
 
@@ -162,7 +170,7 @@
 
 **New:** [3 Gold] Avenge (3): Your Tavern spells that give stats grant an extra +1 Attack this game.
 
-## Innkeeper's Hearth
+## Innkeeper’s Hearth
 
 <img src="https://hearthstone.wiki.gg/images/b/b3/BG32_MagicItem_362_Battlegrounds.png?76eb57" width="225"></img>
 
@@ -178,7 +186,7 @@
 
 **New:** [1 Gold]
 
-## Blingtron's Sunglasses
+## Blingtron’s Sunglasses
 
 <img src="https://hearthstone.wiki.gg/images/8/89/BG30_MagicItem_978_Battlegrounds.png?cabf82" width="225"></img>
 
@@ -201,6 +209,8 @@
 **Old:** [2 Gold]
 
 **New:** [1 Gold]
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/8/8e/BG20_GEM.png/235px-BG20_GEM.png?92936e" width="185"></img>
 
 ## War Drum
 
@@ -226,6 +236,8 @@
 
 **New:** [7 Gold]
 
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/b/bd/BG31_891_Battlegrounds.png/235px-BG31_891_Battlegrounds.png?798014" width="185"></img><img src="https://hearthstone.wiki.gg//images/thumb/0/00/BG31_822_Battlegrounds.png/235px-BG31_822_Battlegrounds.png?3bf5d7" width="185"></img>
+
 ## Quilligraphy Set
 
 <img src="https://hearthstone.wiki.gg/images/e/ec/BG30_MagicItem_410_Battlegrounds.png?c8cee1" width="225"></img>
@@ -233,6 +245,8 @@
 **Old:** [2 Gold]
 
 **New:** [3 Gold]
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/8/8e/BG20_GEM.png/235px-BG20_GEM.png?92936e" width="185"></img>
 
 ## Spell-powered Wrench
 
@@ -250,7 +264,7 @@
 
 **New:** [3 Gold]
 
-## Yu'lon Sticker
+## Yu’lon Sticker
 
 <img src="https://hearthstone.wiki.gg/images/1/1f/BG32_MagicItem_419_Battlegrounds.png?85dbc2" width="225"></img>
 
@@ -266,7 +280,7 @@
 
 **New:** [2 Gold]
 
-## Vash'jir Anemone
+## Vash’jir Anemone
 
 <img src="https://hearthstone.wiki.gg/images/7/77/BG32_MagicItem_932_Battlegrounds.png?9f3e2b" width="225"></img>
 
@@ -282,11 +296,15 @@
 
 **New:** [0 Gold]
 
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/3/35/BG29_140_Battlegrounds.png/235px-BG29_140_Battlegrounds.png?c2feb1" width="185"></img>
+
 ## Beetle Band
 
 <img src="https://hearthstone.wiki.gg/images/3/3c/BG32_MagicItem_860_Battlegrounds.png?5a9d6a" width="225"></img>
 
 **Update:** Now banned from Onyxia.
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/f/f2/BG28_603t_Battlegrounds.png/235px-BG28_603t_Battlegrounds.png?fd4614" width="185"></img>
 
 ## Primordial Terrarium
 
@@ -300,6 +318,8 @@
 
 **Update:** Removed from the pool.
 
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/4/47/BG_OG_221_Battlegrounds.png/235px-BG_OG_221_Battlegrounds.png?a2c9e1" width="185"></img>
+
 # Greater Trinket Updates
 
 ## Blood Golem Sticker
@@ -309,6 +329,8 @@
 **Old:** [0 Gold] Whenever a friendly Quilboar dies, summon a Golem with stats equal to its Blood Gems. (2 times per combat.)
 
 **New:** [4 Gold] Whenever a friendly Quilboar dies, summon a Golem with stats equal to its Blood Gems. (3 times per combat.)
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/8/8e/BG20_GEM.png/235px-BG20_GEM.png?92936e" width="185"></img><img src="https://hearthstone.wiki.gg//images/thumb/0/0a/BG30_MagicItem_442t_Battlegrounds.png/235px-BG30_MagicItem_442t_Battlegrounds.png?c90284" width="185"></img>
 
 ## Reinforced Shield
 
@@ -332,7 +354,9 @@
 
 **Old:** [3 Gold] Get a Hackerfin. Your Hackerfins also trigger at the end of each turn.
 
-**New:** [4 Gold] Get a Hackerfin. At the end of each turn, trigger your Hackerfins' Battlecries.
+**New:** [4 Gold] Get a Hackerfin. At the end of each turn, trigger your Hackerfins’ Battlecries.
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/a/a5/BG31_148_Battlegrounds.png/235px-BG31_148_Battlegrounds.png?4af652" width="185"></img>
 
 ## Heart of the Forest
 
@@ -370,11 +394,11 @@
 
 <img src="https://hearthstone.wiki.gg/images/9/9b/BG32_MagicItem_230_Battlegrounds.png?57e3fd" width="225"></img>
 
-**Old:** [0 Gold] When you spend 20 Gold, double your minions' Attack. (Once per game.)
+**Old:** [0 Gold] When you spend 20 Gold, double your minions’ Attack. (Once per game.)
 
-**New:** [2 Gold] When you spend 20 Gold, double your minions' Attack. (Twice per game.)
+**New:** [2 Gold] When you spend 20 Gold, double your minions’ Attack. (Twice per game.)
 
-## Innkeeper's Hearth
+## Innkeeper’s Hearth
 
 <img src="https://hearthstone.wiki.gg/images/c/c6/BG32_MagicItem_362t_Battlegrounds.png?1478c9" width="225"></img>
 
@@ -398,7 +422,7 @@
 
 **New:** Start of Combat: Play 3 Blood Gems on all your minions.
 
-## Wizard's Pipe
+## Wizard’s Pipe
 
 <img src="https://hearthstone.wiki.gg/images/e/e3/BG32_MagicItem_281_Battlegrounds.png?fd6086" width="225"></img>
 
@@ -413,6 +437,8 @@
 **Old:** [0 Gold] Get a Persistent Poet and a Prized Promo-Drake.
 
 **New:** [4 Gold] Get a Persistent Poet, a Prized Promo Drake, and a Bronze Steward.
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/7/74/BG29_813_Battlegrounds.png/235px-BG29_813_Battlegrounds.png?ccba4e" width="185"></img><img src="https://hearthstone.wiki.gg//images/thumb/c/c7/BG21_014_Battlegrounds.png/235px-BG21_014_Battlegrounds.png?bf84ea" width="185"></img>
 
 ## Wicked Tome
 
@@ -452,6 +478,8 @@
 
 **New:** [3 Gold]
 
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/2/22/BG25_807t3_Battlegrounds.png/235px-BG25_807t3_Battlegrounds.png?74ba05" width="185"></img><img src="https://hearthstone.wiki.gg//images/thumb/0/0c/BG25_807t2_Battlegrounds.png/235px-BG25_807t2_Battlegrounds.png?b376c7" width="185"></img><img src="https://hearthstone.wiki.gg//images/thumb/0/0e/BG25_807t_Battlegrounds.png/235px-BG25_807t_Battlegrounds.png?4e8aa5" width="185"></img><img src="https://hearthstone.wiki.gg//images/thumb/d/d8/BG25_807t4_Battlegrounds.png/235px-BG25_807t4_Battlegrounds.png?e022d8" width="185"></img>
+
 ## Behemoth Portrait
 
 <img src="https://hearthstone.wiki.gg/images/f/f2/BG32_MagicItem_998_Battlegrounds.png?9aa697" width="225"></img>
@@ -460,6 +488,8 @@
 
 **New:** [3 Gold]
 
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/f/f9/BG31_360_Battlegrounds.png/235px-BG31_360_Battlegrounds.png?ca676e" width="185"></img>
+
 ## Rivendare Portrait
 
 <img src="https://hearthstone.wiki.gg/images/a/ad/BG30_MagicItem_310_Battlegrounds.png?c933ec" width="225"></img>
@@ -467,6 +497,8 @@
 **Old:** [5 Gold]
 
 **New:** [3 Gold]
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/f/f3/BG25_354_Battlegrounds.png/235px-BG25_354_Battlegrounds.png?aab0bb" width="185"></img>
 
 ## Dazzling Dagger
 
@@ -492,6 +524,8 @@
 
 **New:** [5 Gold]
 
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/b/bd/BG28_741_Battlegrounds.png/235px-BG28_741_Battlegrounds.png?e31892" width="185"></img>
+
 ## Shaker Portrait
 
 <img src="https://hearthstone.wiki.gg/images/a/ac/BG30_MagicItem_828_Battlegrounds.png?77b2ae" width="225"></img>
@@ -499,6 +533,8 @@
 **Old:** [3 Gold]
 
 **New:** [6 Gold]
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/e/e9/BG26_505_Battlegrounds.png/235px-BG26_505_Battlegrounds.png?d4a93f" width="185"></img>
 
 ## Electromagnetic Device
 
@@ -516,6 +552,8 @@
 
 **New:** [3 Gold]
 
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/f/f2/BG28_603t_Battlegrounds.png/235px-BG28_603t_Battlegrounds.png?fd4614" width="185"></img>
+
 ## Thaumaturgist Portrait
 
 <img src="https://hearthstone.wiki.gg/images/3/39/BG32_MagicItem_920_Battlegrounds.png?1e41ff" width="225"></img>
@@ -524,6 +562,8 @@
 
 **New:** [6 Gold]
 
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/f/f2/BG31_924_Battlegrounds.png/235px-BG31_924_Battlegrounds.png?2ae1cb" width="185"></img>
+
 ## Aggem Sticker
 
 <img src="https://hearthstone.wiki.gg/images/6/69/BG32_MagicItem_284_Battlegrounds.png?5a6276" width="225"></img>
@@ -531,6 +571,8 @@
 **Old:** [4 Gold]
 
 **New:** [5 Gold]
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/8/8e/BG20_GEM.png/235px-BG20_GEM.png?92936e" width="185"></img>
 
 ## Unholy Sanctum
 
@@ -547,6 +589,8 @@
 **Old:** [6 Gold]
 
 **New:** [7 Gold]
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/b/ba/BG26_157_Battlegrounds.png/235px-BG26_157_Battlegrounds.png?ea4400" width="185"></img>
 
 ## Nazjatar Postcard
 
@@ -572,6 +616,8 @@
 
 **New:** [6 Gold]
 
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/a/ae/BG26_814_Battlegrounds.png/235px-BG26_814_Battlegrounds.png?9420d0" width="185"></img>
+
 ## All-Purpose Kibble
 
 <img src="https://hearthstone.wiki.gg/images/0/03/BG32_MagicItem_200_Battlegrounds.png?8fde5b" width="225"></img>
@@ -580,13 +626,15 @@
 
 **New:** [6 Gold]
 
-## Butcher's Sickle
+## Butcher’s Sickle
 
 <img src="https://hearthstone.wiki.gg/images/0/01/BG30_MagicItem_406_Battlegrounds.png?e2d48d" width="225"></img>
 
 **Old:** [8 Gold]
 
 **New:** [7 Gold]
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/9/98/BG28_604_Battlegrounds.png/235px-BG28_604_Battlegrounds.png?284cf0" width="185"></img>
 
 ## Turbocharged Drill
 
@@ -596,13 +644,15 @@
 
 **New:** [4 Gold]
 
-## Boom's Monster Portrait
+## Boom’s Monster Portrait
 
 <img src="https://hearthstone.wiki.gg/images/c/c9/BG32_MagicItem_172_Battlegrounds.png?e5a119" width="225"></img>
 
 **Old:** [6 Gold]
 
 **New:** [5 Gold]
+
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/4/4a/BG31_176_Battlegrounds.png/235px-BG31_176_Battlegrounds.png?ac6b33" width="185"></img>
 
 ## Great Boar Sticker
 
@@ -612,7 +662,9 @@
 
 **New:** [2 Gold]
 
-## S'Thara Sticker
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/8/8e/BG20_GEM.png/235px-BG20_GEM.png?92936e" width="185"></img>
+
+## S’Thara Sticker
 
 <img src="https://hearthstone.wiki.gg/images/2/22/BG32_MagicItem_907_Battlegrounds.png?ba5f0a" width="225"></img>
 
@@ -622,7 +674,7 @@
 
 ## Nether Pendant
 
-<img src="https://hearthstone.wiki.gg/images/0/0b/BG30_MagicItem_541_Battlegrounds.png?347d8e" width="226"></img>
+<img src="https://hearthstone.wiki.gg/images/0/0b/BG30_MagicItem_541_Battlegrounds.png?347d8e" width="225"></img>
 
 **Old:** [1 Gold]
 

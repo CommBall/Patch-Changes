@@ -622,7 +622,7 @@
 
 ## Nether Pendant
 
-<img src="https://hearthstone.wiki.gg/images/0/0b/BG30_MagicItem_541_Battlegrounds.png?347d8e" width="225"></img>
+<img src="https://hearthstone.wiki.gg/images/0/0b/BG30_MagicItem_541_Battlegrounds.png?347d8e" width="226"></img>
 
 **Old:** [1 Gold]
 

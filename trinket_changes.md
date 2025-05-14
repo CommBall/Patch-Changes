@@ -14,17 +14,17 @@
 
 <img src="https://hearthstone.wiki.gg/images/a/ae/BG32_MagicItem_890_Battlegrounds.png?343bef" width="225"></img>
 
-**Old:** At the end of each turn, give your left-most minion +3/+2. (Improved by each Battlecry you’ve triggered this turn!)
+**Old:** At the end of each turn, give your left-most minion +3/+2. (Improved by each Battlecry you've triggered this turn!)
 
-**New:** At the end of each turn, give your left-most minion +3/+3. (Improved by each Battlecry you’ve triggered this turn!)
+**New:** At the end of each turn, give your left-most minion +3/+3. (Improved by each Battlecry you've triggered this turn!)
 
 ## Weary Portrait
 
 <img src="https://hearthstone.wiki.gg/images/b/bd/BG32_MagicItem_933_Battlegrounds.png?d5c9a6" width="225"></img>
 
-**Old:** [7 Gold] Get a Weary Mage and a Coilskar Sapper. Your Weary Mages’ Spellcrafts are permanent.
+**Old:** [7 Gold] Get a Weary Mage and a Coilskar Sapper. Your Weary Mages' Spellcrafts are permanent.
 
-**New:** [3 Gold] Get a Weary Mage. Your weary Mages’ Spellcrafts are permanent.
+**New:** [3 Gold] Get a Weary Mage. Your weary Mages' Spellcrafts are permanent.
 
 **Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/3/3d/BG31_830_Battlegrounds.png/235px-BG31_830_Battlegrounds.png?cc0bf9" width="185"></img><img src="https://hearthstone.wiki.gg//images/thumb/d/d1/BG32_836_Battlegrounds.png/235px-BG32_836_Battlegrounds.png?bd9dce" width="185"></img>
 
@@ -36,7 +36,7 @@
 
 **New:** [2 Gold] Transform all your minions into random Tier 4 minions.
 
-## Finley’s Helmet
+## Finley's Helmet
 
 <img src="https://hearthstone.wiki.gg/images/7/7b/BG32_MagicItem_891_Battlegrounds.png?55d3a9" width="225"></img>
 
@@ -140,13 +140,13 @@
 
 <img src="https://hearthstone.wiki.gg/images/d/dc/BG32_MagicItem_820_Battlegrounds.png?618475" width="225"></img>
 
-**Old:** [0 Gold] Get an Impulsive Trickster. Your Impulsive Tricksters’ Deathrattles target adjacent minions.
+**Old:** [0 Gold] Get an Impulsive Trickster. Your Impulsive Tricksters' Deathrattles target adjacent minions.
 
-**New:** [1 Gold] Get a 6/6 Impulsive Trickster. Your Impulsive Tricksters’ Deathrattles target adjacent minions.
+**New:** [1 Gold] Get a 6/6 Impulsive Trickster. Your Impulsive Tricksters' Deathrattles target adjacent minions.
 
 **Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/3/36/BG21_006_Battlegrounds.png/235px-BG21_006_Battlegrounds.png?e16ad2" width="185"></img>
 
-## Explorer’s Binoculars
+## Explorer's Binoculars
 
 <img src="https://hearthstone.wiki.gg/images/5/53/BG32_MagicItem_858_Battlegrounds.png?309708" width="225"></img>
 
@@ -170,7 +170,7 @@
 
 **New:** [3 Gold] Avenge (3): Your Tavern spells that give stats grant an extra +1 Attack this game.
 
-## Innkeeper’s Hearth
+## Innkeeper's Hearth
 
 <img src="https://hearthstone.wiki.gg/images/b/b3/BG32_MagicItem_362_Battlegrounds.png?76eb57" width="225"></img>
 
@@ -186,7 +186,7 @@
 
 **New:** [1 Gold]
 
-## Blingtron’s Sunglasses
+## Blingtron's Sunglasses
 
 <img src="https://hearthstone.wiki.gg/images/8/89/BG30_MagicItem_978_Battlegrounds.png?cabf82" width="225"></img>
 
@@ -264,7 +264,7 @@
 
 **New:** [3 Gold]
 
-## Yu’lon Sticker
+## Yu'lon Sticker
 
 <img src="https://hearthstone.wiki.gg/images/1/1f/BG32_MagicItem_419_Battlegrounds.png?85dbc2" width="225"></img>
 
@@ -280,7 +280,7 @@
 
 **New:** [2 Gold]
 
-## Vash’jir Anemone
+## Vash'jir Anemone
 
 <img src="https://hearthstone.wiki.gg/images/7/77/BG32_MagicItem_932_Battlegrounds.png?9f3e2b" width="225"></img>
 
@@ -354,7 +354,7 @@
 
 **Old:** [3 Gold] Get a Hackerfin. Your Hackerfins also trigger at the end of each turn.
 
-**New:** [4 Gold] Get a Hackerfin. At the end of each turn, trigger your Hackerfins’ Battlecries.
+**New:** [4 Gold] Get a Hackerfin. At the end of each turn, trigger your Hackerfins' Battlecries.
 
 **Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/a/a5/BG31_148_Battlegrounds.png/235px-BG31_148_Battlegrounds.png?4af652" width="185"></img>
 
@@ -394,11 +394,11 @@
 
 <img src="https://hearthstone.wiki.gg/images/9/9b/BG32_MagicItem_230_Battlegrounds.png?57e3fd" width="225"></img>
 
-**Old:** [0 Gold] When you spend 20 Gold, double your minions’ Attack. (Once per game.)
+**Old:** [0 Gold] When you spend 20 Gold, double your minions' Attack. (Once per game.)
 
-**New:** [2 Gold] When you spend 20 Gold, double your minions’ Attack. (Twice per game.)
+**New:** [2 Gold] When you spend 20 Gold, double your minions' Attack. (Twice per game.)
 
-## Innkeeper’s Hearth
+## Innkeeper's Hearth
 
 <img src="https://hearthstone.wiki.gg/images/c/c6/BG32_MagicItem_362t_Battlegrounds.png?1478c9" width="225"></img>
 
@@ -422,7 +422,7 @@
 
 **New:** Start of Combat: Play 3 Blood Gems on all your minions.
 
-## Wizard’s Pipe
+## Wizard's Pipe
 
 <img src="https://hearthstone.wiki.gg/images/e/e3/BG32_MagicItem_281_Battlegrounds.png?fd6086" width="225"></img>
 
@@ -626,7 +626,7 @@
 
 **New:** [6 Gold]
 
-## Butcher’s Sickle
+## Butcher's Sickle
 
 <img src="https://hearthstone.wiki.gg/images/0/01/BG30_MagicItem_406_Battlegrounds.png?e2d48d" width="225"></img>
 
@@ -644,7 +644,7 @@
 
 **New:** [4 Gold]
 
-## Boom’s Monster Portrait
+## Boom's Monster Portrait
 
 <img src="https://hearthstone.wiki.gg/images/c/c9/BG32_MagicItem_172_Battlegrounds.png?e5a119" width="225"></img>
 
@@ -664,7 +664,7 @@
 
 **Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/8/8e/BG20_GEM.png/235px-BG20_GEM.png?92936e" width="185"></img>
 
-## S’Thara Sticker
+## S'Thara Sticker
 
 <img src="https://hearthstone.wiki.gg/images/2/22/BG32_MagicItem_907_Battlegrounds.png?ba5f0a" width="225"></img>
 
@@ -695,4 +695,14 @@
 **Old:** [3 Gold]
 
 **New:** [4 Gold]
+
+# Minion Pool Changes
+
+## Removed Cards
+
+<img src="https://hearthstone.wiki.gg/images/0/04/BG26_969_Battlegrounds.png?f6f89c" width="185"></img><img src="https://hearthstone.wiki.gg/images/0/0e/BGS_110_Battlegrounds.png?c36fda" width="185"></img><img src="https://hearthstone.wiki.gg/images/5/5d/BG30_929_Battlegrounds.png?40dc9e" width="185"></img>
+
+## Added Cards
+
+<img src="https://hearthstone.wiki.gg/images/3/32/BG25_309_Battlegrounds.png?b376ae" width="185"></img><img src="https://hearthstone.wiki.gg/images/d/dd/BG25_027_Battlegrounds.png?60b961" width="185"></img><img src="https://hearthstone.wiki.gg/images/8/80/BG31_144_Battlegrounds.png?50bf1e" width="185"></img><img src="https://hearthstone.wiki.gg/images/4/44/BG31_827_Battlegrounds.png?c19b37" width="185"></img><img src="https://hearthstone.wiki.gg/images/1/18/BGS_012_Battlegrounds.png?bb0c70" width="185"></img><img src="https://hearthstone.wiki.gg/images/7/7a/BG31_920_Battlegrounds.png?3daa4e" width="185"></img><img src="https://hearthstone.wiki.gg/images/3/31/BG25_010_Battlegrounds.png?bbad5b" width="185"></img><img src="https://hearthstone.wiki.gg/images/3/32/BG27_024_Battlegrounds.png?b481e6" width="185"></img>
 

@@ -1,5 +1,12 @@
 # 32.2.2 Patch Notes - Trinket Changes
 
+## Table of Contents
+
+- [Lesser Trinket Updates](#lesser-trinket-updates)
+- [Greater Trinket Updates](#greater-trinket-updates)
+- [Minion Pool Changes](#minion-pool-changes)
+
+<a id="lesser-trinket-updates"></a>
 # Lesser Trinket Updates
 
 ## Gem Donation
@@ -102,7 +109,7 @@
 
 **New:** [2 Gold] Get a Goldgrubber and an Aureate Laureate.
 
-**Related Cards:**<img src="https://hearthstone.wiki.gg/images/thumb/0/0d/BGS_066_Battlegrounds.png/300px-BGS_066_Battlegrounds.png?821b2f" width="185"></img><img src="https://hearthstone.wiki.gg/images/thumb/b/b8/BG32_236_Battlegrounds.png/300px-BG32_236_Battlegrounds.png?4c7a41" width="185"></img>
+**Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/0/0d/BGS_066_Battlegrounds.png/300px-BGS_066_Battlegrounds.png?821b2f" width="185"></img><img src="https://hearthstone.wiki.gg//images/thumb/b/b8/BG32_236_Battlegrounds.png/300px-BG32_236_Battlegrounds.png?4c7a41" width="185"></img>
 
 ## Eclectic Shrine
 
@@ -320,6 +327,7 @@
 
 **Related Cards:**<img src="https://hearthstone.wiki.gg//images/thumb/4/47/BG_OG_221_Battlegrounds.png/235px-BG_OG_221_Battlegrounds.png?a2c9e1" width="185"></img>
 
+<a id="greater-trinket-updates"></a>
 # Greater Trinket Updates
 
 ## Blood Golem Sticker
@@ -696,6 +704,7 @@
 
 **New:** [4 Gold]
 
+<a id="minion-pool-changes"></a>
 # Minion Pool Changes
 
 ## Removed Cards
